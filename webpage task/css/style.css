@@ -1,0 +1,219 @@
+#navigation{
+	overflow: hidden;
+	background-color: grey;
+	}
+	
+	 #navigation{
+	float: center;
+	font-size: 20px;
+	color: rgb(35, 226, 240);
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: underline;
+
+	}
+	
+
+	#navigation a:hover,
+	.dropdown:hover  {
+	background-color: white;
+	}
+p {
+	color: #252525;
+	line-height: 24px;
+	margin: 0;
+	padding: 0;
+}
+p a {
+	color: #252525;
+	text-decoration: underline;
+}
+p a:hover {
+	color:orange;
+}
+#header {
+	margin: 0 auto;
+	padding: 44px 0 50px;
+	text-align: center;
+	width: 960px;
+}
+#header ul li {
+	display: inline;
+	list-style: none;
+	margin: 0;
+	padding: 0 19px;
+}
+#body {
+	margin: 0;
+	padding: 0 0 30px;
+	text-align: center;
+}#body h1 {
+	color: #fff;
+	display: inline;
+	font-family: poller_oneregular;
+	font-size: 35px;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+}
+#body h1 span {
+	background: #252525;
+	display: inline-block;
+	padding: 15px 28px 12px;
+}
+
+#body > div .article {
+	margin: 0 auto;
+	
+}
+#body > div .article h2 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 25px;
+	font-weight: normal;
+	margin: 0 0 30px;
+}
+#body > div .article h3 {
+	color: #252525;
+	line-height: 24px;
+	margin: 0;
+	padding: 0;
+}
+#body > div .article h4 {
+	background: #252525;
+	color: #fff;
+	display: inline-block;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 25px;
+	font-weight: normal;
+	margin: 0 0 30px;
+	padding: 8px 27px 10px;
+}
+#body div ul li .figure:hover img {
+	opacity: 1;
+}#body div ul li div h3 {
+	color: #252525;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 25px;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+}
+#body div ul li div a.more {
+	background: #000;
+	color: #fff;
+	display: inline-block;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	margin: 0;
+	padding: 8px 28px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+#body div ul li div a.more:hover {
+	color: #252525;
+	background: #fff;
+	border: 2px solid #252525;
+}
+#body #featured {
+	margin: 0 0 13px;
+	padding: 0;
+	position: relative;
+	width: 100%;
+}
+
+#body > div img {
+	border: 2px solid #292929;
+	margin: 24px 0 0;
+	padding: 0;
+}
+#footer div ul li #facebook:hover {
+	background-position: -44px -44px;
+
+}
+#skr{
+	image-orientation: center;
+}
+#body > ul li a:hover img {
+	opacity: 1;
+}
+#body > ul li a span {
+	display: block;
+	margin: 0;
+	padding: 33px 0 0;
+}
+#body form {
+	margin: 0 auto;
+	padding: 24px 0 0;
+	width: 620px;
+}
+#body form input, #body form textarea {
+	border: 2px solid #252525;
+	color: #252525;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	margin: 0 0 37px;
+	padding: 20px 10px;
+	text-align: center;
+	text-transform: uppercase;
+	width: 596px;
+}
+#body form textarea {
+	height: 175px;
+	overflow: auto;
+	resize: none;
+}
+#body form #send {
+	background: #252525;
+	color: #fff;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	display: inline-block;
+	padding: 20px 28px;
+	width: auto;
+}
+#body form #send:hover {
+	background: #fff;
+	color: #252525;
+	cursor: pointer;
+}
+#footer {
+	background: grey;
+	margin: 0;
+	padding: 36px 0 42px;
+}
+div{
+	text-align: center
+}
+body{
+	background-image: url(images/back.jpg)
+}html { 
+	background: linear-gradient();
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+  }
+  .header1{
+	  flex: auto;
+  }
+  body {
+	margin: 0;
+  }
+  
+  #skr img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+  }
+  body {
+	margin: 0;
+  }
+  img {
+	
+	filter: drop-shadow(40);
+  }
